@@ -84,7 +84,7 @@ const ScenarioSelector: React.FC<Props> = ({ onSelect }) => {
       </div>
       
       <div className="mt-12 text-center text-xs text-gray-400">
-        Internal Tool for Chery Europe R&D | Powered by OpenAI gpt-5.2-pro
+        Internal Tool for Chery Europe R&D | Powered by OpenAI | Yanhao FU
       </div>
     </div>
   );
