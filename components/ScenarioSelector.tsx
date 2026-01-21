@@ -20,7 +20,7 @@ const ScenarioSelector: React.FC<Props> = ({ onSelect }) => {
     <div className="max-w-4xl mx-auto py-12 px-4">
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          <span className="text-red-700">Chery EU</span> Data Protection Lead
+          <span className="text-red-700">Chery EU</span> Data Protection Tool Kit
         </h1>
         <p className="text-lg text-gray-600">
           合规落地执行助手 | Compliance Execution Assistant
