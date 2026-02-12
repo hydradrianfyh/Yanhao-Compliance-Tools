@@ -47,7 +47,7 @@ const AssessmentForm: React.FC<Props> = ({ scenario, onSubmit, onBack, isSubmitt
         purpose: 'Validation of L2+ autonomous driving algorithms',
         source: 'Vehicle sensors (Camera, LiDAR) and Telematics Box',
         storage: 'Encrypted SSD on vehicle -> Upload to AWS Frankfurt (S3)',
-        recipients: 'Chery EU R&D (Algo Team), 3rd Party Labeling Vendor (Scale AI)',
+        recipients: 'EU R&D (Algo Team), 3rd Party Labeling Vendor (Scale AI)',
         crossBorder: 'Metadata shared with HQ (China) for stats; Raw data stays in EU',
         retention: 'Raw data: 3 months; Anonymized data: 3 years',
         security: 'Disk encryption (LUKS), Access Control (IAM), No facial blurring on raw collection'
