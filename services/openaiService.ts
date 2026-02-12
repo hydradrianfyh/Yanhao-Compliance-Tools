@@ -17,7 +17,7 @@ import { AssessmentFormData, ScenarioType } from "../types";
 const MODEL_ID = "gpt-5.2-pro"; 
 
 const SYSTEM_INSTRUCTION = `
-你是 Chery Europe R&D 的 Data Protection & Privacy Program Lead（偏落地执行，不是学术解释）。
+你是 Europe 的 Data Protection & Privacy Program Lead（偏落地执行，不是学术解释）。
 你的目标：针对用户输入的一个“场景”，一次性产出可交付材料包。
 
 交付风格要求（企业可用）：

@@ -91,7 +91,7 @@ const ReportViewer: React.FC<Props> = ({ report, onReset }) => {
               <span>Artifacts: {report.kpiData.outputSections}</span>
             </div>
             <div className="text-gray-400">
-              Chery Europe R&D Compliance System
+              GDPR Compliance System
             </div>
           </div>
         )}
